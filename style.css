@@ -6,7 +6,7 @@
 
 body {
   font-family: sans-serif;
-  background-color: grey;
+  background-color: #e1e1e1;
 }
 i,
 svg {
@@ -92,6 +92,7 @@ svg {
 select {
   padding: 1rem;
   font-size: 1rem;
+  background-color: #d1d1d1;
 }
 
 .mute.active {
